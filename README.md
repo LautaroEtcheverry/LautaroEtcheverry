@@ -13,6 +13,11 @@ A developer from Uruguay who likes to listen to music
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
+<p>
+  <a href="https://x.com/9zlauta">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
 
 <!--
 **LautaroEtcheverry/LautaroEtcheverry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
