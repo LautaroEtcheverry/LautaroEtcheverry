@@ -17,6 +17,7 @@ A developer from Uruguay who likes to listen to music
   </a>
 </p>
 
+## Stats
 [![Mis GitHub Stats](https://github-readme-stats.vercel.app/api?username=LautaroEtcheverry&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
