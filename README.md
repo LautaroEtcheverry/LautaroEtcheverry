@@ -1,6 +1,9 @@
 ## Hi i'm Lauta!
 A developer from Uruguay who likes to listen to music
 
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+
 <!--
 **LautaroEtcheverry/LautaroEtcheverry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
