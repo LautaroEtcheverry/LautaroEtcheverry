@@ -1,5 +1,6 @@
-## Hi i'm Lauta!
+## Hi i'm [Lauta](https://open.spotify.com/user/31mpmk4t3hlkjilwsiz2ghf6qvw4)!
 A developer from Uruguay who likes to listen to music
+
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
