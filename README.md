@@ -8,7 +8,6 @@ A developer from Uruguay who likes to listen to music
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,nodejs,react)](https://skillicons.dev)
 
 ## Social networks
-[![My Skills](https://skillicons.dev/icons?i=discord,twitter,gmail)](https://skillicons.dev)
 <p>
   <a href="https://discord.com/channels/@me">
     <img src="https://skillicons.dev/icons?i=discord" />
