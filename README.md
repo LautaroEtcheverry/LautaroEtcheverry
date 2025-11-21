@@ -9,6 +9,11 @@ A developer from Uruguay who likes to listen to music
 
 ## Social networks
 [![My Skills](https://skillicons.dev/icons?i=discord,twitter,gmail)](https://skillicons.dev)
+<p align="center">
+  <a href="https://discord.com/channels/@me">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
 <!--
 **LautaroEtcheverry/LautaroEtcheverry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
