@@ -13,7 +13,7 @@ A developer from Uruguay who likes to listen to music
   <a href="https://discord.com/channels/@me">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-    <a href="https://x.com/9zlauta">
+    <a href="https://x.com/lautaassj7">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
