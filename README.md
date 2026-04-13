@@ -10,7 +10,7 @@ A developer from Uruguay who likes to listen to music
 
 ## Social networks
 <p>
-  <a href="https://discord.com/channels/@me">
+  <a href="https://discord.com/channels/@ropzz._.">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
     <a href="https://x.com/lautaassj7">
